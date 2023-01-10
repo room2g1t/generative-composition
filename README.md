@@ -11,4 +11,4 @@ reference: https://thecodingtrain.com/challenges/51-a-pathfinding-algorithm
 
 click reload in the start.maxpat to start
 
-<img width="749" alt="截屏2023-01-10 19 05 48" src="https://user-images.githubusercontent.com/118258469/211639405-1a488f70-4a2b-470b-a9c8-5e93d81d443a.png">
+<img width="749" alt="diagram" src="https://user-images.githubusercontent.com/118258469/211639562-396e179b-942d-4afc-b0a4-7ea8fd596cd7.png">
