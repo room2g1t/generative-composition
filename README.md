@@ -1,4 +1,4 @@
-# a-star-pathfinding-algorithm-with-euclidean-rhythm
+# generative-composition
 
 
  I used the a* pathfinding algorithm, euclidean algorithm and L system for this project. A* algorithm is usually used to search the fastest way to solve a problem, and I used the x and y axis of the node to run through euclidean rhythm and L system to generate different numbers. I mainly divided the composition to three parts where it’s more minimal at the end and begin and more rhythmic and glitchy in the middle. 
