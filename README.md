@@ -8,3 +8,5 @@
  I found it interesting that sometimes it won’t trigger all the sound and sometimes it triggers various different sound in a very short time. And it’s also interesting playing with the slider to change the speed, and if the player set the frame rate to 0.0001, it could really be stretched to an almost endless time to finish.
 
 reference: https://thecodingtrain.com/challenges/51-a-pathfinding-algorithm
+
+click reload in the start.maxpat to start
